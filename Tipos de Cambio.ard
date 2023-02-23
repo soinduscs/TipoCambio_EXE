@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddOnRegData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SlientInstallation="No" SlientUpgrade="No" Partnernmsp="Soindus" SchemaVersion="3.0" Type="" MultipleVersion="false" OnDemand="" OnPremise="" ExtName="Tipos de Cambio" ExtVersion="1.0.0.3" Contdata="Soindus Consulting Ltda." Partner="Soindus Consulting Ltda." DBType="Both" ClientType="A">
+  <Validity>
+    <SBOCompatibility>
+      <Version From="" To="" />
+    </SBOCompatibility>
+  </Validity>
+  <Configuration>
+    <Repository>
+      <Properties />
+    </Repository>
+    <Deployment>
+      <Properties />
+    </Deployment>
+    <Assignment>
+      <Properties />
+    </Assignment>
+  </Configuration>
+  <Addons>
+    <Addon Name="Tipos de Cambio" Group="" ForceFlag="" Visible="" AutoAssign="" SelfUpgrd="">
+      <x86 AddonExe="Soindus.AddOnTipoCambio.exe" AddonSig="4C8E6F7129EDF25A477C466CAC320E9E" ExeDir="X86Client">
+        <Installation>
+          <Files>
+            <File FileName="X86Client\Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Newtonsoft.Json.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Soindus.AddOnTipoCambio.b1s">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Soindus.AddOnTipoCambio.exe">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Soindus.Interfaces.PortadoresTC.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\soindus.jpg">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="X86Client\Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Newtonsoft.Json.xml">
+              <Actions />
+            </File>
+            <File FileName="X86Client\SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Soindus.AddOnTipoCambio.b1s">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Soindus.AddOnTipoCambio.exe">
+              <Actions />
+            </File>
+            <File FileName="X86Client\Soindus.Interfaces.PortadoresTC.dll">
+              <Actions />
+            </File>
+            <File FileName="X86Client\soindus.jpg">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x86>
+      <x64 AddonExe="Soindus.AddOnTipoCambio.exe" AddonSig="B92523367B53A8566C91C7EF57B2C53C" ExeDir="X64Client">
+        <Installation>
+          <Files>
+            <File FileName="X64Client\Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Newtonsoft.Json.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Soindus.AddOnTipoCambio.b1s">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Soindus.AddOnTipoCambio.exe">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Soindus.Interfaces.PortadoresTC.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\soindus.jpg">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="X64Client\Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Newtonsoft.Json.xml">
+              <Actions />
+            </File>
+            <File FileName="X64Client\SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Soindus.AddOnTipoCambio.b1s">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Soindus.AddOnTipoCambio.exe">
+              <Actions />
+            </File>
+            <File FileName="X64Client\Soindus.Interfaces.PortadoresTC.dll">
+              <Actions />
+            </File>
+            <File FileName="X64Client\soindus.jpg">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x64>
+    </Addon>
+  </Addons>
+  <XApps>
+    <XApp Name="" Path="" FileName="" />
+  </XApps>
+  <UDQs>
+    <UDQ udqname="">
+      <Hana FileName="" />
+    </UDQ>
+  </UDQs>
+</AddOnRegData>
